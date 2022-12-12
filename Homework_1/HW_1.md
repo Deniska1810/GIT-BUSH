@@ -53,3 +53,7 @@ ____
 5. Зайти в любоую папку
 
 *cd* foldername_1
+
+6. Создать 5 файлов (3 txt, 2 json)
+
+*touch* file_1.txt file_2.txt file_3.txt
