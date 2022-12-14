@@ -56,4 +56,30 @@ ____
 
 6. Создать 5 файлов (3 txt, 2 json)
 
-*touch* file_1.txt file_2.txt file_3.txt
+*touch* file_1.txt file_2.txt file_3.txt file_4.json file_5.json
+
+- через команду *cat*
+
+*cat* > file_1.txt file_2.txt file_3.txt file_4.json file_5.json
+
+7. Создать 3 папки
+
+*mkdir* folder_1 folder_2 folder_3
+
+8. Вывести список содержимого папки
+
+*ls*
+
+* скрытые файлы/папки
+
+*ls -la* 
+
+9.  +Открыть любой txt файл
+
+- через команду *cat*
+
+*cat* file_1.txt (выйти из редактирования Crl+C)
+
+- через команду *vim*
+
+*vim* file_2.txt 
