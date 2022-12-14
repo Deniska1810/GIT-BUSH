@@ -50,7 +50,7 @@ ____
 
 *mkdir* foldername_1 foldername_2 foldername_3
 
-5. Зайти в любоую папку
+5. Зайти в любую папку
 
 *cd* foldername_1
 
